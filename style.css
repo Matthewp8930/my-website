@@ -21,6 +21,18 @@ h1 {
 }
 p {text-align: center;}
 body {text-align: center;}
+.ig{
+  background-image:url('images/night.jpeg');
+  margin: 0 auto;
+  max-height: 26rem;
+  padding: 0 0 1rem;
+  padding: 6rem;
+  color: white;
+  font-size: 5rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 50%;
+}
 .pc{
   background: #3500D3;
   padding: 0.2rem;
