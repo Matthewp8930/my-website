@@ -1,4 +1,42 @@
-.pc {
-	background: red;
-	padding: 1rem;
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+p {text-align: center;}
+body {text-align: center;}
+.pc{
+  background: #3500D3;
+  padding: 0.2rem;
+}
+.button {
+    color: white;
+    background: #3500D3;
+    padding: .5rem 2rem;
+    margin: 2rem auto 0;
+    display: inline-block;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px #3500D3;
+align-self: flex-start;
+}
+.first__image {
+    margin: 0 auto;
+    max-height: 26rem;
+    padding: 0 0 1rem;
+  
